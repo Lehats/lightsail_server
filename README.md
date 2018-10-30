@@ -1,7 +1,7 @@
 This project is about setting up a ubuntu instance and deploy a web application using apche web server.
 The linux machine is hosted by AWS lightsail.
 
-The server can be reached at 52.59.29.113 at port 2200.
+
 
 
 Modifications @ ubuntu instance:
@@ -34,4 +34,4 @@ with pip:
 - installed httplib2 (httplib2)
 - installed flask http authentification (Flask-HTTPAuth)
 
-
+This project was created with help of udacity.com
